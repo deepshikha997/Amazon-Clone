@@ -17,7 +17,8 @@ Our task is to clone a Shopping website named Amazon which  is a popular online 
 
 # WEBSITE LOOK
 
-![Amazon look](https://github.com/deepshikha997/Amazon-Clone/assets/91555549/069c0eeb-bd6b-4f00-b4d6-8135b5d3a72a)
+![Amazon look](https://github.com/deepshikha997/Amazon-Clone/assets/91555549/9cf00006-b186-419b-bf7a-3282d886dc76)
+
 
 
 # THANK YOU
